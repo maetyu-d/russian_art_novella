@@ -1,9 +1,10 @@
 # Russian Ark
 
-A prose adaptation of *Russian Ark* and a corresponding literary quotation version, each organized into 29 sections.
+A prose adaptation of *Russian Ark* and a corresponding literary quotation version, each organized into 29 sections. The current edition is titled *Russian Ark*, with the subtitle *After Sokurov*.
 
-Two Word editions are available:
+Three editions are available:
 
+- [Russian Ark — After Sokurov (PDF)](Russian_Ark_After_Sokurov.pdf): a 62-page reading edition containing the complete literary version and its reference list. It ends after reference [708], before the prose adaptation. All 848 citation markers link to their reference entries; chapter bookmarks and source links provide further navigation.
 - [Sourced version followed by references and prose](Russian_Ark_Sourced_Version_References_and_Prose.docx): the current edition contains the complete sourced literary version, followed by all references, then the complete prose version. Both versions use only Roman numerals I–XXIX for section headings, without descriptive titles or dates. The opening “Sourced literary version” label has been removed. The literary version forms new sentences and paragraphs by juxtaposing exact fragments, with capitalization and punctuation adapted at their boundaries. It follows the [editorial rules](EDITORIAL_RULES.md) adopted from *What Takes Hold*, including the author's exceptions for essential short excerpts.
 - [Versions paired within each section](Russian_Ark_Story_with_Literary_Quotations.docx): an earlier edition in which each prose section is followed by its quotation version, with references collected at the end. This edition retains its earlier quotation choices and 677 distinct references. All 63 rendered pages were reviewed when it was produced.
 
@@ -13,4 +14,4 @@ The references retain the bracketed citation style, italic titles and hanging in
 
 The chapter order and complete original prose are preserved. Historical and bibliographical dates remain in the body and references; dates have been removed from section headings at the author's request. The sourced paragraphs have been recomposed. All source wording and required centuries have been checked, and new source locations have been verified. Citation numbering and targets pass verification, with no numbering gaps or broken citation links. The latest presentation changes leave all narrative wording, reference wording, century colours and citation links unchanged. All 86 rendered pages of the current edition have been visually reviewed.
 
-The current edition uses a 7 × 10 inch literary book layout: a separate title leaf, centred Roman numerals, 12 pt serif text with traditional paragraph indents, smaller linked citation markers and discreet page numbers. References retain their hanging indents and italic work titles. Short prose openings stay with the following paragraph. Linux Libertine G regular and italic fonts are embedded for portable typography; their notices and licence are in [FONT_LICENSE.txt](FONT_LICENSE.txt).
+The current editions use a 7 × 10 inch literary book layout: a separate title leaf with an italic subtitle, centred Roman numerals, 12 pt serif text with traditional paragraph indents, smaller linked citation markers and discreet page numbers. References retain their hanging indents and italic work titles. Short prose openings stay with the following paragraph in the full Word edition. Linux Libertine G regular and italic fonts are embedded for portable typography; their notices and licence are in [FONT_LICENSE.txt](FONT_LICENSE.txt). Every PDF page has been checked against the corresponding approved Word rendering; the PDF preserves the same page content and century colours.
